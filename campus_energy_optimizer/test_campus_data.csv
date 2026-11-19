@@ -1,0 +1,4 @@
+hour,day_of_week,temperature,occupancy_level,is_weekend
+9,0,28.5,850,0
+14,2,34.0,1200,0
+18,4,31.2,450,0
